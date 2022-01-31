@@ -15,8 +15,7 @@ const styles = StyleSheet.create({
     position: 'absolute',
     left: '5%',
     right: '15%',
-    top: '5%',
-    height: '100%',
+    
   },
   txtInput: {
     marginRight: '5%',
